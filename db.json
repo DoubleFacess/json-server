@@ -28,11 +28,5 @@
     "title": "Develop project prototype",
     "due_at": "2023-03-25",
     "is_completed": false
-  },
-  {
-    "id": 6,
-    "title": "Test project functionality",
-    "due_at": "2023-03-28",
-    "is_completed": false
   }
 ]
